@@ -1,3 +1,6 @@
+//please only add the hex decrypter as a function on this code don't make changes to the main function
+//Message to contributer OGhostyy
+
 #include <iostream>
 #include <string>
 #include <vector>
