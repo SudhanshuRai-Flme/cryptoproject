@@ -1,2 +1,6 @@
 # cryptoproject
-shura and oghostyy present
+Hex function file provided by OGhostyy
+The programs first encryots a string to base64
+then is peppered by a position related to the word thunder in the ACDC Thunderstruck
+then the thuder peppered string is encoded to hex
+which is further peppered on prime positions
